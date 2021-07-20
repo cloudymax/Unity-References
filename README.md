@@ -29,7 +29,8 @@ Gifs and Media
 <a href="https://gfycat.com/FreeAliveBream-size_restricted.gif">                     <img alt="Unity hair physics implimentation"                  src="https://thumbs.gfycat.com/FreeAliveBream-size_restricted.gif" width="30%"></a>
 <a href="https://gfycat.com/IllDirectAustraliansilkyterrier-size_restricted.gif">    <img alt="zelda pots clone"                                   src="https://thumbs.gfycat.com/IllDirectAustraliansilkyterrier-size_restricted.gif" width="30%"></a>
 <a href="https://gfycat.com/DelightfulAchingGrunion-size_restricted.gif">            <img alt="Environment Foliage Optimization"                   src="https://thumbs.gfycat.com/DelightfulAchingGrunion-size_restricted.gif" width="30%%"></a>
-
+<a href="https://gfycat.com/SpotlessPerfectAfricanelephant-size_restricted.gif"> <img alt="Skyrim ENB mods" src="https://thumbs.gfycat.com/SpotlessPerfectAfricanelephant-size_restricted.gif" width="30%"></a>
+<a href="https://gfycat.com/ImmaculateLimitedKingbird-size_restricted.gif"> <img alt="Skyrim ENB mods" src="https://thumbs.gfycat.com/ImmaculateLimitedKingbird-size_restricted.gif" width="30%"></a>
 
 ```bash
 # html template for gifs,
