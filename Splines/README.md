@@ -26,12 +26,13 @@ Special thanks to @FreyaHolmer's 2015 Unite presentation on the subject for bein
 
 ## Editors and gizmos:
 
-<img src="custom_editors/combatloggingandscoretracking.PNG" alt="drawing"        style="witdh:50%;"/>
-<img src="custom_editors/splinemanager.PNG"                 alt="drawing"        style="height:50%;"/>
-<img src="custom_editors/character2.PNG"                    alt="drawing"        style="height:100%;"/>
-<img src="custom_editors/castmanager.PNG"                   alt="drawing"        style="height:50%;"/>
-<img src="custom_editors/character1.PNG"                    alt="drawing"        style="height:50%;"/>
-<img src="custom_editors/attackprofile1.PNG"                alt="drawing"        style="width:50%;"/><img src="custom_editors/attackprofile2.PNG"                alt="drawing"        style="width:50%;"/>
-<img src="custom_editors/attackcollapsed.PNG"               alt="drawing"        style="height:50%;"/>
-<img src="custom_editors/damagetype.PNG"                    alt="drawing"        style="width:50%;"/>
+<a href="custom_editors/combatloggingandscoretracking.PNG"> <img alt="drawing" src="custom_editors/combatloggingandscoretracking.PNG"   witdh="30%"></a>
+<a href="custom_editors/splinemanager.PNG"                > <img alt="drawing" src="custom_editors/splinemanager.PNG"                   width="30%"></a>
+<a href="custom_editors/character2.PNG"                   > <img alt="drawing" src="custom_editors/character2.PNG"                      width="30%"></a>
+<a href="custom_editors/character1.PNG"                   > <img alt="drawing" src="custom_editors/character1.PNG"                      width="30%"></a>
+<a href="custom_editors/attackprofile1.PNG"               > <img alt="drawing" src="custom_editors/attackprofile1.PNG"                  width="30%"></a>
+<a href="custom_editors/attackprofile2.PNG"               > <img alt="drawing" src="custom_editors/attackprofile2.PNG"                  width="30%"></a>
 
+<a href="custom_editors/attackcollapsed.PNG"              > <img alt="drawing" src="custom_editors/attackcollapsed.PNG"                 width="30%"></a>
+<a href="custom_editors/damagetype.PNG"                   > <img alt="drawing" src="custom_editors/damagetype.PNG"                      width="30%"></a>
+<a href="custom_editors/castmanager.PNG"                  > <img alt="drawing" src="custom_editors/castmanager.PNG"                     width="30%"></a>
