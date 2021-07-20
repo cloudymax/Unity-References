@@ -3,20 +3,12 @@
 some notes and snippets hat might have a broader use
 click the image to be linke to the high-definition gfycat page
 
-## [Splines](Splines)
-A novel system for crating animations and pathing using Splines/bezier curves in the Unity 3D engine.
+## - [Splines](Splines): A novel system for crating animations and pathing using Splines/bezier curves in the Unity 3D engine
+## - [Zoom Background Maker](ZoomBackgroundMaker): Fun project to generate custom Zoom video backgrounds
 
-## [Zoom Background Maker](ZoomBackgroundMaker)
 
 ```bash
-
-# html template for gifs,
-use "-max-1mb.gif" for heavy gifs
-use "-size_restricted.gif" for more light ones
-
-<a href="https://gfycat.com/$NAME-size_restricted.gif"> <img alt="$DESCRIPTION" src="https://thumbs.gfycat.com/$NAME-size_restricted.gif" width="$WIDTH%"></a>
-
-# for gfycat users, the links are case sensistive
+Gifs and Media
 ```
 
 <a href="https://gfycat.com/UnfinishedFriendlyFlamingo-size_restricted.gif">         <img alt="breaking pots for treasure w/ physics"              src="https://thumbs.gfycat.com/UnfinishedFriendlyFlamingo-size_restricted.gif" width="30%"></a>
@@ -35,3 +27,12 @@ use "-size_restricted.gif" for more light ones
 <a href="https://gfycat.com/$NAME-size_restricted.gif"> <img alt="" src="https://thumbs.gfycat.com/$NAME-size_restricted.gif" width="$WIDTH%"></a>
 <a href="https://gfycat.com/$NAME-size_restricted.gif"> <img alt="" src="https://thumbs.gfycat.com/$NAME-size_restricted.gif" width="$WIDTH%"></a>
 
+```bash
+# html template for gifs,
+use "-max-1mb.gif" for heavy gifs
+use "-size_restricted.gif" for more light ones
+
+<a href="https://gfycat.com/$NAME-size_restricted.gif"> <img alt="$DESCRIPTION" src="https://thumbs.gfycat.com/$NAME-size_restricted.gif" width="$WIDTH%"></a>
+
+# for gfycat users, the links are case sensistive
+```
