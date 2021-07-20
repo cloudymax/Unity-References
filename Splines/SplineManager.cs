@@ -1,22 +1,34 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+// structure/schema for the <Spline Profile> profile type which will consume and create scriptable objects
 public class SplineManager : MonoBehaviour {
 
     //public drag n drops
     public CreateSplineProfile Spline;
 
     //options
+    // show editor handles
     public bool EditorHandles;
+    // prevent spline scalng
     public bool LockOrigins;
+    // display control points in the editor
     public bool ShowControlPoints;
+    // show directional indicators for the traversal agent
     public bool ShowDirection;
+    // enable horizontal oscillation
     public bool OscillateHorizontal;
+    // enable vertical oscillation
     public bool OscillateVertical;
+    // enable orbital animations
     public bool Orbit;
+    // force strict path following
     public bool FollowSpline;
+    // when enabled, randomization will only generate symmetrical patterns
     public bool RandomizerReflection;
+    // get a random spline based on configuration on each request
     public bool AutoRandom;
+    // show more data
     public bool Debug;
     [Range(10,50)]
     public int lineSteps;

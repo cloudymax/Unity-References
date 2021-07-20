@@ -2,6 +2,11 @@
 using System.Collections;
 using UnityEditor;
 
+// collapse regions for better readability
+// this editor script creates a custom editor pannel that will modify a selected spline profile scriptable object
+// changes to the asset are serialized in real time, and options to manipulate T value and show
+// extended degug data are provided
+
 [CustomEditor(typeof(SplineManager))]
 public class SplineProfileEditor : Editor
 {
@@ -490,7 +495,7 @@ public class SplineProfileEditor : Editor
             EditorGUILayout.EndHorizontal();
 
             Spline.OscillateHorizontal = OscH;
-            
+
 
             if (Spline.OscillateHorizontal)
             {
@@ -511,7 +516,7 @@ public class SplineProfileEditor : Editor
             EditorGUILayout.EndHorizontal();
 
             Spline.OscillateVertical = OscV;
-            
+
 
             if (Spline.OscillateVertical)
             {
@@ -590,7 +595,7 @@ public class SplineProfileEditor : Editor
 
         #endregion
 
-        #region T 
+        #region T
 
 
             EditorGUILayout.BeginHorizontal();
