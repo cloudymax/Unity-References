@@ -4,7 +4,11 @@ some notes and snippets hat might have a broader use
 click the image to be linke to the high-definition gfycat page
 
 ## - [Splines](Splines): A novel system for crating animations and pathing using Splines/bezier curves in the Unity 3D engine
+
+<a href="https://gfycat.com/HollowMajesticArmadillo-size_restricted.gif">            <img alt="spline animation system"                                       src="https://thumbs.gfycat.com/HollowMajesticArmadillo-size_restricted.gif" width="50%"></a>
 ## - [Zoom Background Maker](ZoomBackgroundMaker): Fun project to generate custom Zoom video backgrounds
+
+<a href="https://gfycat.com/PassionateSevereArmadillo-size_restricted.gif"> <img alt="My Zoom background tool" src="https://thumbs.gfycat.com/PassionateSevereArmadillo-size_restricted.gif" width="50%"></a>
 
 
 ```bash
@@ -23,9 +27,9 @@ Gifs and Media
 <a href="https://gfycat.com/PrestigiousTerribleDeviltasmanian-size_restricted.gif">  <img alt="frame-stitched physics animation"                   src="https://thumbs.gfycat.com/PrestigiousTerribleDeviltasmanian-size_restricted.gif" width="30%"></a>
 <a href="https://gfycat.com/ExaltedFloweryDuiker-size_restricted.gif">               <img alt="Camera line of sight obstruction solition"          src="https://thumbs.gfycat.com/ExaltedFloweryDuiker-size_restricted.gif" width="30%"></a>
 <a href="https://gfycat.com/FreeAliveBream-size_restricted.gif">                     <img alt="Unity hair physics implimentation"                  src="https://thumbs.gfycat.com/FreeAliveBream-size_restricted.gif" width="30%"></a>
-<a href="https://gfycat.com/HollowMajesticArmadillo-size_restricted.gif">            <img alt="spline animation system"                                       src="https://thumbs.gfycat.com/HollowMajesticArmadillo-size_restricted.gif" width="30%"></a>
-<a href="https://gfycat.com/$NAME-size_restricted.gif"> <img alt="" src="https://thumbs.gfycat.com/$NAME-size_restricted.gif" width="$WIDTH%"></a>
-<a href="https://gfycat.com/$NAME-size_restricted.gif"> <img alt="" src="https://thumbs.gfycat.com/$NAME-size_restricted.gif" width="$WIDTH%"></a>
+<a href="https://gfycat.com/IllDirectAustraliansilkyterrier-size_restricted.gif">    <img alt="zelda pots clone"                                   src="https://thumbs.gfycat.com/IllDirectAustraliansilkyterrier-size_restricted.gif" width="30%"></a>
+<a href="https://gfycat.com/DelightfulAchingGrunion-size_restricted.gif">            <img alt="Environment Foliage Optimization"                   src="https://thumbs.gfycat.com/DelightfulAchingGrunion-size_restricted.gif" width="30%%"></a>
+
 
 ```bash
 # html template for gifs,
