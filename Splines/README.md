@@ -19,10 +19,10 @@ Warning: depicts some anime violence - skip to 1:30 to bypass.
 Included is an excerpt from a custom spline system I designed and prototyped for a unrealeased MOBA title.
 Special thanks to @FreyaHolmer's 2015 Unite presentation on the subject for being a fantastic primer.
 ```
-<img src="https://thumbs.gfycat.com/HollowMajesticArmadillo-size_restricted.gif" width="720" height="480" />
-<img src="custom_editors/editorviewsplineeditor.PNG"        alt="drawing"        style="width:70%;"/>
-<img src="https://thumbs.gfycat.com/ThoroughSeriousIchidna-size_restricted.gif" width="720" height="480" />
-<img src="https://thumbs.gfycat.com/FemaleFaithfulBorderterrier-size_restricted.gif" width="720" height="480" />
+<a href="https://gfycat.com/HollowMajesticArmadillo-size_restricted.gif">     <img alt="Spline system enditor tools" src="https://thumbs.gfycat.com/HollowMajesticArmadillo-size_restricted.gif" width="40%"></a>
+<a href="custom_editors/editorviewsplineeditor.PNG">                          <img alt="Editor view"                 src="custom_editors/editorviewsplineeditor.PNG" width="50%"></a>
+<a href="https://gfycat.com/ThoroughSeriousIchidna-size_restricted.gif">      <img alt="Example 1"                   src="https://thumbs.gfycat.com/ThoroughSeriousIchidna-size_restricted.gif" width="40%"></a>
+<a href="https://gfycat.com/FemaleFaithfulBorderterrier-size_restricted.gif"> <img alt="Example 2"                   src="https://thumbs.gfycat.com/FemaleFaithfulBorderterrier-size_restricted.gif" width="40%"></a>
 
 ## Editors and gizmos:
 
