@@ -1,6 +1,6 @@
 # Spline Tools
 
-A novel system for crating animations and pathing using Splines/bezier curves in the Unity 3D engine
+A novel system for crating animations and pathing using Splines/bezier curves in the Unity 3D engine. Originally developed to compliment the FOE MMO/MOBA combat systems. A version of the complete project is available [here](https://github.com/deserializeme/Game-Projects/tree/main/combat_system)
 
 ## [Inspiration](https://www.youtube.com/watch?v=rXLH0nkgkbc)
 Warning: depicts some anime violence - skip to 1:30 to bypass.
