@@ -3,10 +3,10 @@
 some notes and snippets hat might have a broader use
 click the image to be linke to the high-definition gfycat page
 
-## [Splines](Unity-References/Splines)
+## [Splines](Splines)
 A novel system for crating animations and pathing using Splines/bezier curves in the Unity 3D engine.
 
-## [Zoom Background Maker](Unity-References/ZoomBackgroundMaker)
+## [Zoom Background Maker](ZoomBackgroundMaker)
 
 ```bash
 
