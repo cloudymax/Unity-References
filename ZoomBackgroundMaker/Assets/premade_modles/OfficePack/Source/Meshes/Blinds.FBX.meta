@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 6127a4f5bce5a5743985e146b223082b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: VB_logo_LP
+    100004: VB_sin_LP
+    100006: VB_logo_LP001
+    100008: VB_logo_LP002
+    100010: VB_logo_LP003
+    100012: VB_logo_LP004
+    100014: VB_logo_LP005
+    100016: VB_logo_LP006
+    100018: VB_logo_LP007
+    100020: VB_logo_LP008
+    100022: VB_logo_LP009
+    100024: VB_logo_LP010
+    100026: VB_logo_LP011
+    100028: VB_logo_LP012
+    100030: VB_logo_LP013
+    100032: VB_logo_LP014
+    100034: VB_logo_LP015
+    100036: VB_logo_LP016
+    100038: VB_logo_LP017
+    100040: VB_logo_LP018
+    100042: VB_logo_LP019
+    400000: //RootNode
+    400002: VB_logo_LP
+    400004: VB_sin_LP
+    400006: VB_logo_LP001
+    400008: VB_logo_LP002
+    400010: VB_logo_LP003
+    400012: VB_logo_LP004
+    400014: VB_logo_LP005
+    400016: VB_logo_LP006
+    400018: VB_logo_LP007
+    400020: VB_logo_LP008
+    400022: VB_logo_LP009
+    400024: VB_logo_LP010
+    400026: VB_logo_LP011
+    400028: VB_logo_LP012
+    400030: VB_logo_LP013
+    400032: VB_logo_LP014
+    400034: VB_logo_LP015
+    400036: VB_logo_LP016
+    400038: VB_logo_LP017
+    400040: VB_logo_LP018
+    400042: VB_logo_LP019
+    2100000: 'Material #187'
+    2100002: 'Material #188'
+    2300000: VB_logo_LP
+    2300002: VB_sin_LP
+    2300004: VB_logo_LP001
+    2300006: VB_logo_LP002
+    2300008: VB_logo_LP003
+    2300010: VB_logo_LP004
+    2300012: VB_logo_LP005
+    2300014: VB_logo_LP006
+    2300016: VB_logo_LP007
+    2300018: VB_logo_LP008
+    2300020: VB_logo_LP009
+    2300022: VB_logo_LP010
+    2300024: VB_logo_LP011
+    2300026: VB_logo_LP012
+    2300028: VB_logo_LP013
+    2300030: VB_logo_LP014
+    2300032: VB_logo_LP015
+    2300034: VB_logo_LP016
+    2300036: VB_logo_LP017
+    2300038: VB_logo_LP018
+    2300040: VB_logo_LP019
+    3300000: VB_logo_LP
+    3300002: VB_sin_LP
+    3300004: VB_logo_LP001
+    3300006: VB_logo_LP002
+    3300008: VB_logo_LP003
+    3300010: VB_logo_LP004
+    3300012: VB_logo_LP005
+    3300014: VB_logo_LP006
+    3300016: VB_logo_LP007
+    3300018: VB_logo_LP008
+    3300020: VB_logo_LP009
+    3300022: VB_logo_LP010
+    3300024: VB_logo_LP011
+    3300026: VB_logo_LP012
+    3300028: VB_logo_LP013
+    3300030: VB_logo_LP014
+    3300032: VB_logo_LP015
+    3300034: VB_logo_LP016
+    3300036: VB_logo_LP017
+    3300038: VB_logo_LP018
+    3300040: VB_logo_LP019
+    4300000: VB_logo_LP
+    4300002: VB_sin_LP
+    4300004: VB_logo_LP001
+    4300006: VB_logo_LP002
+    4300008: VB_logo_LP003
+    4300010: VB_logo_LP004
+    4300012: VB_logo_LP005
+    4300014: VB_logo_LP006
+    4300016: VB_logo_LP007
+    4300018: VB_logo_LP008
+    4300020: VB_logo_LP009
+    4300022: VB_logo_LP010
+    4300024: VB_logo_LP011
+    4300026: VB_logo_LP012
+    4300028: VB_logo_LP013
+    4300030: VB_logo_LP014
+    4300032: VB_logo_LP015
+    4300034: VB_logo_LP016
+    4300036: VB_logo_LP017
+    4300038: VB_logo_LP018
+    4300040: VB_logo_LP019
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #187'
+    second: {fileID: 2100000, guid: 5ca35a6df2ff24c47bdd50bf4488bfb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #188'
+    second: {fileID: 2100000, guid: 5ca35a6df2ff24c47bdd50bf4488bfb4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

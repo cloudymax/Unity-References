@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6bed8fca6e87fb4ca9d025b423bd15e, type: 3}
+  m_Name: door-to-desk
+  m_EditorClassIdentifier: 
+  camera_position: {x: -37.457695, y: 10.938168, z: 8.037136}
+  camera_target: {x: 40.42, y: 6.1704407, z: -30.219032}
+  description: at door, looking at self at desk

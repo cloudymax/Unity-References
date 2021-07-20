@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6bed8fca6e87fb4ca9d025b423bd15e, type: 3}
+  m_Name: guest to self
+  m_EditorClassIdentifier: 
+  camera_position: {x: -1.4, y: 12.287759, z: -10.439017}
+  camera_target: {x: 10.779224, y: 10.235554, z: -13.763681}
+  description: other side of desk looking at self
