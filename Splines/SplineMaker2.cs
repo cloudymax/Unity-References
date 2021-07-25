@@ -3,6 +3,10 @@ using System.Collections;
 
 public class SplineMaker2 : MonoBehaviour {
 
+    // todo: change the functions to just take the point arrays instead of the spline profile
+    // that should make it more portable and functional for API usage.
+    //
+
 
     //takes a start and end position, returns an array of points that create a spline
     public static Vector3[] Points (GameObject Source, GameObject Target, CreateSplineProfile Profile)
