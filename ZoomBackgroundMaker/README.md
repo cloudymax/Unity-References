@@ -15,7 +15,7 @@ IMO if you want realtime GI, grab a VXGI solution like NVIDIA's or SonicEthers
 then just run the game at a low res and rely on the new amd upsampeling.
 ```
 
-<a href="https://gfycat.com/MemorableGoodnaturedDutchshepherddog-size_restricted.gif"> <img alt="My Zoom background tool" src="https://thumbs.gfycat.com/MemorableGoodnaturedDutchshepherddog-size_restricted.gif" width="50%"></a>
+<a href="https://gfycat.com/MemorableGoodnaturedDutchshepherddog-size_restricted.gif"> <img alt="My Zoom background tool" src="https://thumbs.gfycat.com/MemorableGoodnaturedDutchshepherddog-size_restricted.gif" width="70%"></a>
 
 <a href="https://gfycat.com/HorribleUnderstatedIbizanhound-size_restricted.gif"> <img alt="under construction" src="https://thumbs.gfycat.com/HorribleUnderstatedIbizanhound-size_restricted.gif" width="30%"></a>
 <a href="https://gfycat.com/BrokenDeadJoey-size_restricted.gif"> <img alt="testing looks" src="https://thumbs.gfycat.com/BrokenDeadJoey-size_restricted.gif" width="30%"></a>
