@@ -1,5 +1,27 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-998201235132972898
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b94fcd11afffcb142908bfcb1e261fba, type: 3}
+  m_Name: MotionBlur
+  m_EditorClassIdentifier: 
+  active: 1
+  enabled:
+    overrideState: 1
+    value: 1
+  shutterAngle:
+    overrideState: 1
+    value: 270
+  sampleCount:
+    overrideState: 1
+    value: 10
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20,6 +42,10 @@ MonoBehaviour:
   - {fileID: 922651784272064353}
   - {fileID: 5373010133551511745}
   - {fileID: 5939381551374581007}
+  - {fileID: 7102448917543540261}
+  - {fileID: 8539883028959349140}
+  - {fileID: 1125039284479278045}
+  - {fileID: -998201235132972898}
 --- !u!114 &922651784272064353
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -63,6 +89,40 @@ MonoBehaviour:
     defaultState: 1
   opacity:
     overrideState: 0
+    value: 1
+--- !u!114 &1125039284479278045
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b77c5407dc277943b591ade9e6b18c5, type: 3}
+  m_Name: LensDistortion
+  m_EditorClassIdentifier: 
+  active: 1
+  enabled:
+    overrideState: 1
+    value: 1
+  intensity:
+    overrideState: 1
+    value: -20.8
+  intensityX:
+    overrideState: 1
+    value: 1
+  intensityY:
+    overrideState: 1
+    value: 1
+  centerX:
+    overrideState: 1
+    value: 0
+  centerY:
+    overrideState: 1
+    value: 0
+  scale:
+    overrideState: 1
     value: 1
 --- !u!114 &4911776616013302425
 MonoBehaviour:
@@ -168,7 +228,7 @@ MonoBehaviour:
     value: 1
   focusDistance:
     overrideState: 1
-    value: 20.384155
+    value: 64.04193
   aperture:
     overrideState: 1
     value: 5.6
@@ -1526,6 +1586,32 @@ MonoBehaviour:
       - 0.5
       - 0.5
       - 0.5
+--- !u!114 &7102448917543540261
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6050e2d5de785ce4d931e4dbdbf2d755, type: 3}
+  m_Name: ChromaticAberration
+  m_EditorClassIdentifier: 
+  active: 1
+  enabled:
+    overrideState: 1
+    value: 1
+  spectralLut:
+    overrideState: 0
+    value: {fileID: 0}
+    defaultState: 1
+  intensity:
+    overrideState: 1
+    value: 0.134
+  fastMode:
+    overrideState: 1
+    value: 1
 --- !u!114 &8260114201961683992
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -1544,10 +1630,10 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 1.051947
+    value: 1.3007932
   threshold:
     overrideState: 1
-    value: 1.4294828
+    value: 1.0179956
   softKnee:
     overrideState: 1
     value: 0.5
@@ -1573,3 +1659,31 @@ MonoBehaviour:
   dirtIntensity:
     overrideState: 0
     value: 0
+--- !u!114 &8539883028959349140
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d65e486e4de6e5448a8fbb43dc8756a0, type: 3}
+  m_Name: Grain
+  m_EditorClassIdentifier: 
+  active: 1
+  enabled:
+    overrideState: 1
+    value: 1
+  colored:
+    overrideState: 1
+    value: 1
+  intensity:
+    overrideState: 1
+    value: 0.11
+  size:
+    overrideState: 1
+    value: 1.055
+  lumContrib:
+    overrideState: 1
+    value: 0.793
