@@ -11,7 +11,7 @@ using cam_manager;
 public class effects_controls : MonoBehaviour
 {
     public PostProcessProfile profile;
-   
+
     public Bloom bloom;
 
     DepthOfField dof;
@@ -184,7 +184,7 @@ public class effects_controls : MonoBehaviour
     }
     #endregion
 
-    //Spot light intensity 
+    //Spot light intensity
     #region spot light intensity
     float _spot_light_intensity;
     public float spot_light_intensity
@@ -207,7 +207,7 @@ public class effects_controls : MonoBehaviour
     #endregion
 
     //Sun Intensity
-    #region sun intensity 
+    #region sun intensity
     float _sun_intensity;
     public float sun_intensity
     {
@@ -251,7 +251,7 @@ public class effects_controls : MonoBehaviour
     #endregion
 
     //Bloom Intensity
-    #region bloom intensity 
+    #region bloom intensity
     float _bloom_intensity;
     public float bloom_intensity
     {
@@ -277,7 +277,7 @@ public class effects_controls : MonoBehaviour
     #endregion
 
     //Bloom threshold
-    #region bloom threshold 
+    #region bloom threshold
     float _bloom_threshold;
     public float bloom_threshold
     {
@@ -746,7 +746,7 @@ public class effects_controls : MonoBehaviour
         video_player = outside_video.GetComponent<VideoPlayer>();
         video_player.url = "https://media.istockphoto.com/videos/horrible-silhouette-scary-supernatural-alien-strange-creature-video-id468710844";
         tv_player = tv_video_screen.GetComponent<VideoPlayer>();
-        tv_player.url = "https://media.istockphoto.com/videos/zombie-alert-going-on-and-off-video-id501297820";
+        tv_player.url = "https://media.istockphoto.com/videos/retro-futuristic-flight-over-grid-seamless-background-80s-retro-video-id962696858";
         bloom_enabled = true;
         auto_DOF = true;
         DOF_enabled = true;
@@ -824,7 +824,7 @@ public class effects_controls : MonoBehaviour
     void Spot_Lights()
     {
         foreach (Light g in spot_lights)
-        {   
+        {
             g.color = overhead_light_color;
             g.intensity = spot_light_intensity;
         }
@@ -880,9 +880,9 @@ public class effects_controls : MonoBehaviour
 
         overhead_light_intensity = .5f;
         spot_light_intensity =0;
-        
+
         yield return new WaitForSeconds(Random.Range(.2f, .5f));
-        
+
         overhead_light_intensity = old_0;
         spot_light_intensity = old_1;
 
