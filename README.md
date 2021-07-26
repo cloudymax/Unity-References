@@ -8,7 +8,7 @@ click the image to be linke to the high-definition gfycat page
 <a href="https://gfycat.com/HollowMajesticArmadillo-size_restricted.gif">            <img alt="spline animation system"                                       src="https://thumbs.gfycat.com/HollowMajesticArmadillo-size_restricted.gif" width="50%"></a>
 ## - [Zoom Background Maker](ZoomBackgroundMaker): Fun project to generate custom Zoom video backgrounds
 
-<a href="https://gfycat.com/PassionateSevereArmadillo-size_restricted.gif"> <img alt="My Zoom background tool" src="https://thumbs.gfycat.com/PassionateSevereArmadillo-size_restricted.gif" width="50%"></a>
+<a href="https://gfycat.com/MemorableGoodnaturedDutchshepherddog-size_restricted.gif"> <img alt="My Zoom background tool" src="https://thumbs.gfycat.com/MemorableGoodnaturedDutchshepherddog-size_restricted.gif" width="50%"></a>
 
 
 ```bash
