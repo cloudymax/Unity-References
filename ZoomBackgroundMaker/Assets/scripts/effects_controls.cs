@@ -744,7 +744,7 @@ public class effects_controls : MonoBehaviour
         cm.working_profile = new profile();
         overhead_light_color = startColor;
         video_player = outside_video.GetComponent<VideoPlayer>();
-        video_player.url = "https://media.istockphoto.com/videos/horrible-silhouette-scary-supernatural-alien-strange-creature-video-id468710844";
+        video_player.url = "https://media.istockphoto.com/videos/billboards-and-neon-signs-in-shinjukus-kabukicho-district-also-known-video-id1184828146";
         tv_player = tv_video_screen.GetComponent<VideoPlayer>();
         tv_player.url = "https://media.istockphoto.com/videos/retro-futuristic-flight-over-grid-seamless-background-80s-retro-video-id962696858";
         bloom_enabled = true;
