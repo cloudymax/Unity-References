@@ -19,6 +19,7 @@ MonoBehaviour:
   - {fileID: 5581630249420763037}
   - {fileID: 922651784272064353}
   - {fileID: 5373010133551511745}
+  - {fileID: 5939381551374581007}
 --- !u!114 &922651784272064353
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -46,10 +47,10 @@ MonoBehaviour:
     value: {x: 0.5, y: 0.5}
   intensity:
     overrideState: 1
-    value: 0.223
+    value: 0.117
   smoothness:
     overrideState: 1
-    value: 0.8
+    value: 0.728
   roundness:
     overrideState: 1
     value: 1
@@ -81,10 +82,10 @@ MonoBehaviour:
     value: 1
   mode:
     overrideState: 1
-    value: 0
+    value: 1
   intensity:
     overrideState: 1
-    value: 0.57
+    value: 0.64
   color:
     overrideState: 1
     value: {r: 0, g: 0, b: 0, a: 1}
@@ -102,7 +103,7 @@ MonoBehaviour:
     value: -12
   thicknessModifier:
     overrideState: 1
-    value: 1
+    value: 2.46
   directLightingStrength:
     overrideState: 0
     value: 0
@@ -167,7 +168,7 @@ MonoBehaviour:
     value: 1
   focusDistance:
     overrideState: 1
-    value: 3.93259
+    value: 20.384155
   aperture:
     overrideState: 1
     value: 5.6
@@ -176,6 +177,43 @@ MonoBehaviour:
     value: 50
   kernelSize:
     overrideState: 0
+    value: 1
+--- !u!114 &5939381551374581007
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3f6f3f7c722b4544b97e3c75840aa33, type: 3}
+  m_Name: AutoExposure
+  m_EditorClassIdentifier: 
+  active: 1
+  enabled:
+    overrideState: 1
+    value: 1
+  filtering:
+    overrideState: 1
+    value: {x: 40.721264, y: 99}
+  minLuminance:
+    overrideState: 1
+    value: -1.25
+  maxLuminance:
+    overrideState: 1
+    value: 2.87
+  keyValue:
+    overrideState: 1
+    value: 0.64
+  eyeAdaptation:
+    overrideState: 1
+    value: 0
+  speedUp:
+    overrideState: 1
+    value: 2
+  speedDown:
+    overrideState: 1
     value: 1
 --- !u!114 &7093283636295074795
 MonoBehaviour:
@@ -1506,10 +1544,10 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 2.32
+    value: 1.051947
   threshold:
     overrideState: 1
-    value: 1
+    value: 1.4294828
   softKnee:
     overrideState: 1
     value: 0.5
